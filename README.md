@@ -11,9 +11,6 @@ Roaster and Roastee are determined in random way and no one can be Roaster or Ro
 
 That was our way to laugh off that last day and there was no one better to Roast us than ourselves.
 
-## View
-<a href="https://roast.pedro-v.com/" target="_blank">https://roast.pedro-v.com/</a>
-
 ## Built With
 - HTML
 - CSS/Bootstrap
